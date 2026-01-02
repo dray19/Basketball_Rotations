@@ -51,3 +51,6 @@ To use this project locally, follow these steps:
 The algorithm ensures:
 - Each player meets their minimum playing time.
 - Balanced lineup configurations based on input considerations (e.g., skill, size).
+
+### Link to app
+https://basketballrotations-f9ufyc8yawhgg9vukxe9ez.streamlit.app/
